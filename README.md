@@ -32,6 +32,6 @@ Finally the players can be ranked according to their **average probability of wi
 
 ---
 
-
+*Demo above is part of my university coursework. Details of problem statements and analysis can be found in `Problems.pdf` and `Report.pdf` respectively.*
 
 
