@@ -32,6 +32,6 @@ Finally the players can be ranked according to their **average probability of wi
 
 ---
 
-*Demo above is part of my university coursework. Details of problem statements and analysis can be found in `Problems.pdf` and `Report.pdf` respectively.*
+*Demo above is part of my university coursework. Details of problem statements and analysis can be found in `Problems.pdf` and `Report.pdf` respectively, while details of how skills were inferred via **Gibbs Sampling** and **Messaging Passing** can be found in the `theories` folder.*
 
 
