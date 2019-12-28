@@ -3,7 +3,7 @@
 <p float="center">
   <img align="middle" width=260 src="demo_images/e_empirical.jpg" \>
   <img align="middle" width=260 src="demo_images/e_Gibbs.jpg" \>
-  <img align="middle" width=260 src="demo_images/e_MP.jpg" \>
+  <img align="middle" width=260 src="demo_images/e_MP_modified.jpg" \>
 </p>
 
 ---
